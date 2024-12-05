@@ -70,11 +70,11 @@ Example of a blocked email pattern:
 
 ### Dashboard Widget
 
-![Dashboard Widget Screenshot](https://github.com/Homezonic/Block-Woocommerce-Spam-Orders/dashboard-widget.png)
+![Dashboard Widget Screenshot](dashboard-widget.png)
 
 ### Detailed Analytics Page
 
-![Analytics Page Screenshot](https://github.com/Homezonic/Block-Woocommerce-Spam-Orders/dedicated-page.png)
+![Analytics Page Screenshot](dedicated-page.png)
 
 ---
 
